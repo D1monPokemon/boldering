@@ -16,11 +16,23 @@ h1{
 }
 main img{
   padding:15px;
-  
+  border-left:12px dotted black;
+  text-align:center  
 }
 main p{
-  font-size:20px
+  font-size:20px;
+  border:1px solid black;
+  border-radius:7px;
+  padding:15px
 }
 .granitsa{
   border-top:4px solid black
+}
+footer{
+  background-color:black;
+}
+footer p{
+  background-color:white;
+  margin:15px;
+  
 }
